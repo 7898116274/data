@@ -5,14 +5,14 @@
         "title": "Introduction to Artificial Intelligence",
         "author": "John Doe",
         "imageUrl": "https://example.com/image1.jpg",
-        "blogContent": "Artificial Intelligence (AI) is revolutionizing various industries. From autonomous vehicles to natural language processing, AI technologies are making significant strides. In this blog post, we explore the fundamentals of AI, its applications, and the ethical considerations surrounding its development and deployment."
+        "content": "Artificial Intelligence (AI) is revolutionizing various industries. From autonomous vehicles to natural language processing, AI technologies are making significant strides. In this blog post, we explore the fundamentals of AI, its applications, and the ethical considerations surrounding its development and deployment."
       },
       {
         "id": 2,
         "title": "The Future of Blockchain Technology",
         "author": "Jane Smith",
         "imageUrl": "https://example.com/image2.jpg",
-        "blogContent": "Blockchain technology is reshaping the financial landscape and beyond. As a decentralized and secure ledger, blockchain has the potential to transform industries such as finance, supply chain, and healthcare. In this post, we delve into the key features of blockchain and its role in shaping the future of technology."
+        "content": "Blockchain technology is reshaping the financial landscape and beyond. As a decentralized and secure ledger, blockchain has the potential to transform industries such as finance, supply chain, and healthcare. In this post, we delve into the key features of blockchain and its role in shaping the future of technology."
       },
       {
         "id": 3,
